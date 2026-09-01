@@ -1,6 +1,6 @@
 # Dasar Pemrograman (DasPro)
 
-Repositori ini berisi kumpulan tugas, studi kasus, dan latihan praktikum mata kuliah **Dasar Pemrograman (DasPro)**.
+Repositori ini berisi kumpulan tugas teori, modul praktikum, dan proyek mata kuliah **Dasar Pemrograman (DasPro)**.
 
 ---
 
@@ -15,17 +15,12 @@ Repositori ini berisi kumpulan tugas, studi kasus, dan latihan praktikum mata ku
 
 ## 📁 Struktur Repositori
 
-Repositori ini disusun berdasarkan pertemuan teori dan praktikum:
+Repositori ini diorganisasi ke dalam tiga kategori utama: **Project**, **Teori**, dan **Praktikum**.
 
 ```text
 DasPro_Nasrul_1C_24/
 ├── DasPro_01/
-│   └── Teori/
-│       ├── Pertemuan_01/
-│       │   └── Tugas01_24.docx
-│       └── Pertemuan_02/
-│           ├── StudiKasus1.java
-│           ├── StudiKasus2.java
-│           ├── Tugas_01_24.java
-│           └── Tugas_02_24.java
+│   ├── Project/
+│   ├── Teori/
+│   └── Praktikum/
 └── README.md
