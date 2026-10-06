@@ -9,7 +9,7 @@ Repositori ini berisi kumpulan tugas teori, modul praktikum, dan proyek mata kul
 * **Nama**: Nasrul
 * **Kelas**: 1C
 * **No. Presensi/Absen**: 24
-* **Program Studi**: D4 Teknik Informatika / Sistem Informasi Bisnis
+* **Program Studi**: D4 Teknik Informatika
 
 ---
 
