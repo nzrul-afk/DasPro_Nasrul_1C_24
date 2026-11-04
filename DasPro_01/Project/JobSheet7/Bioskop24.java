@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Bioskop24 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        final int HARGA_TIKET = 50000;
+        int HARGA_TIKET = 50000;
         int totalTiketTerjual = 0;
         double totalPenjualan = 0;
         int jumlahTiket;
